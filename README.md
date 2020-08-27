@@ -1,6 +1,6 @@
-# PrimerPractica
+# primerapractica
 
-A new Flutter project.
+The first flutter practice.
 
 ## Getting Started
 

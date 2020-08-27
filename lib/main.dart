@@ -1,7 +1,7 @@
-import 'package:PrimerPractica/home_page.dart';
-import 'package:PrimerPractica/login.dart';
+import 'package:primerapractica/home_page.dart';
+import 'package:primerapractica/login.dart';
 import 'package:flutter/material.dart';
-import 'package:PrimerPractica/houses.dart';
+import 'package:primerapractica/houses.dart';
 
 void main() {
   runApp(MyApp());
